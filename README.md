@@ -1,4 +1,5 @@
-### Hi there 👋
+### For in my way it lies. Stars, hide your fires;
+### Let not light see my black and deep desires.
 
 <!--
 **f-underscore/f-underscore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
